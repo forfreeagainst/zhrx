@@ -69,8 +69,7 @@ pnpm run changelog
 
 ## :email: 联系
 
-- **印客学院官网**: <http://encodestudio.cn>
-- **前端编码规范工程化** <https://encode-studio-fe.github.io/fe-spec/>
-- **GitHub**: <https://github.com/encode-studio-fe/fe-spec>
+- **前端编码规范工程化** <https://forfreeagainst.github.io/zhrx/>
+- **GitHub**: <https://github.com/forfreeagainst/zhrx>
 
 </br>
